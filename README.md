@@ -1,5 +1,13 @@
 ## OpenCV: Open Source Computer Vision Library
+This is a CUDA Compiled version of OpenCV for cuda compatibility. helps perform all the opencv operation on cuda.
 
+### Installation instructions
+```
+cd build
+make install
+sudo ldconfig
+```
+Took about 2.5 hours to generate the cuda build of opencv.
 
 ### Resources
 
